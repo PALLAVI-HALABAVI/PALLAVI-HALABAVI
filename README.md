@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PALLAVI-HALABAVI
-- 👀 I’m interested in coding 
+- 👀 I’m interested in web development 
 - 🌱 I’m currently pursuing my Computer Science and Engineering at DSCE
 - 📫 How to reach me through email pallavihalabhavi21@gmail.com
 
